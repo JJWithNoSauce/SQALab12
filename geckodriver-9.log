@@ -1,0 +1,24 @@
+1725699195442	geckodriver	INFO	Listening on 127.0.0.1:58417
+1725699195494	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGxZlad"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725699196096	Marionette	INFO	Marionette enabled
+1725699196191	Marionette	INFO	Listening on port 45585
+Read port: 45585
+WebDriver BiDi listening on ws://127.0.0.1:47217
+1725699196271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+DevTools listening on ws://127.0.0.1:47217/devtools/browser/cf037ad6-e9cf-44c8-b3ef-be9a6f10cca1
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+1725699206808	Marionette	INFO	Stopped listening on port 45585

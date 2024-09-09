@@ -1,0 +1,18 @@
+1725699307474	geckodriver	INFO	Listening on 127.0.0.1:50159
+1725699307524	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWr2l2O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725699308114	Marionette	INFO	Marionette enabled
+1725699308214	Marionette	INFO	Listening on port 38375
+Read port: 38375
+WebDriver BiDi listening on ws://127.0.0.1:44195
+1725699308297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+DevTools listening on ws://127.0.0.1:44195/devtools/browser/5a4d0d3d-5ce8-4cdc-af09-2ffdcf214efa
+1725699316217	Marionette	INFO	Stopped listening on port 38375
